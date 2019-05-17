@@ -1,1 +1,1 @@
-# anca
+#repository for Quant Invest Challenge
